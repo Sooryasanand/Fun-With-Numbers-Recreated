@@ -1,0 +1,27 @@
+D:/School/SDD/Fun With Numbers/Fun With Numbers/bin/Debug/Fun With Numbers.exe.config
+D:/School/SDD/Fun With Numbers/Fun With Numbers/bin/Debug/Fun With Numbers.exe
+D:/School/SDD/Fun With Numbers/Fun With Numbers/bin/Debug/Fun With Numbers.pdb
+D:/School/SDD/Fun With Numbers/Fun With Numbers/obj/Debug/Fun With Numbers.csprojResolveAssemblyReference.cache
+D:/School/SDD/Fun With Numbers/Fun With Numbers/obj/Debug/Fun With Numbers.csproj.CoreCompileInputs.cache
+D:/School/SDD/Fun With Numbers/Fun With Numbers/obj/Debug/Fun With Numbers.exe
+D:/School/SDD/Fun With Numbers/Fun With Numbers/obj/Debug/Fun With Numbers.pdb
+/Volumes/Soorya SSD/School/SDD/Fun With Numbers/Fun With Numbers/obj/Debug/Fun With Numbers.csproj.AssemblyReference.cache
+/Volumes/Soorya SSD/School/SDD/Fun With Numbers/Fun With Numbers/obj/Debug/Fun With Numbers.csproj.CoreCompileInputs.cache
+/Volumes/Soorya SSD/School/SDD/Fun With Numbers/Fun With Numbers/obj/Debug/Fun With Numbers.exe
+/Volumes/Soorya SSD/School/SDD/Fun With Numbers/Fun With Numbers/obj/Debug/Fun With Numbers.pdb
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers\bin\Debug\Fun With Numbers.exe.config
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers\bin\Debug\Fun With Numbers.exe
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers\bin\Debug\Fun With Numbers.pdb
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers\obj\Debug\Fun With Numbers.csproj.AssemblyReference.cache
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers\obj\Debug\Fun With Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers\obj\Debug\Fun With Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers\obj\Debug\Fun With Numbers.exe
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers\obj\Debug\Fun With Numbers.pdb
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers Recreated\Fun With Numbers\bin\Debug\Fun With Numbers.exe.config
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers Recreated\Fun With Numbers\bin\Debug\Fun With Numbers.exe
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers Recreated\Fun With Numbers\bin\Debug\Fun With Numbers.pdb
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers Recreated\Fun With Numbers\obj\Debug\Fun With Numbers.csproj.AssemblyReference.cache
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers Recreated\Fun With Numbers\obj\Debug\Fun With Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers Recreated\Fun With Numbers\obj\Debug\Fun With Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers Recreated\Fun With Numbers\obj\Debug\Fun With Numbers.exe
+C:\Users\Soorya VM\Desktop\Fun With Numbers\Fun With Numbers Recreated\Fun With Numbers\obj\Debug\Fun With Numbers.pdb
